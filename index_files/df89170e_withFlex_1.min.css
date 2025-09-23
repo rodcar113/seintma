@@ -1600,7 +1600,7 @@ div.dmPrettyList.ed-version[layout="layoutB"] li.listItem .listText.list-text-hi
 }
 #dm div.dmNewParagraph p
 {
-	color:var(--color_7);
+	color:rgb(255,255,255);
 	direction:ltr;
 	font-family: Montserrat, "Montserrat Fallback";
 	font-weight:400;
@@ -2627,8 +2627,9 @@ border-radius:0 !important;
 color:rgba(102,102,102,1) !important;
 fill:rgba(102,102,102,1) !important}
 *#dm *.p_hfcontainer *.u_1800818538 .method svg{
-fill:rgba(255,255,255,1) !important}
+fill:rgba(55,49,102,1) !important}
 *#dm *.p_hfcontainer *.u_1575774782 .copyright{
+color:rgba(102,102,102,1) !important;
 justify-content:center !important;
 text-align:center !important}
 *#dm *.p_hfcontainer *.u_1444326596 .phoneConteiner a{
@@ -2658,7 +2659,7 @@ background-color:var(--color_2) !important}
 *#dm *.p_hfcontainer *.u_1800818538 .Icolor *{
 fill:var(--color_5) !important}
 *#dm *.dmInner div.dmFooter{
-background-color:var(--color_7) !important}*#dm *.dmInner div.u_hcontainer
+background-color:rgba(250,249,249,1) !important}*#dm *.dmInner div.u_hcontainer
 {
 	padding-left:0 !important;
 	padding-right:0 !important;
